@@ -1,0 +1,20 @@
+#balance{
+	border: none;
+	background: #ffffff00;
+	font-size: 70px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	pointer-events: none;
+	color: black;
+}
+.pesoSign{
+	position: absolute;
+	left: 360px;
+	bottom: 23px;
+	font-size: 70px;
+	border: none;
+	background: #ffffff00;
+	pointer-events: none;
+	font-family: Arial, Helvetica, sans-serif;
+
+}

@@ -1,0 +1,11 @@
+.emptyBudgetExpense{
+	border: none;
+	background: #ffffff00;
+	font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	pointer-events: none;
+	width: 1000px;
+	margin-top:80px;
+	color: black;
+}
